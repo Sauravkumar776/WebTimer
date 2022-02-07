@@ -1,0 +1,8 @@
+.App {
+  min-height: 100vh;
+  /* text-align: center; */
+}
+.Header{
+  padding-top: 32px;
+  text-align: center;
+}
